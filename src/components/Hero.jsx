@@ -1,10 +1,11 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { FaArrowRight } from "react-icons/fa";
+import heroIllustration from "../assets/images/Home_Banner.gif"; // Replace with your actual illustration path
 
 // Dummy illustration
-const heroIllustration =
-  "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&auto=format&fit=crop&q=80";
+// const heroIllustration =
+//   "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&auto=format&fit=crop&q=80";
 
 export default function Hero() {
   return (

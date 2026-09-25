@@ -1,8 +1,9 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
+import aboutImage from "../assets/images/About_GeoWeb.svg";
 
-const aboutImage =
-  "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&auto=format&fit=crop&q=80";
+// const aboutImage =
+//   "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&auto=format&fit=crop&q=80";
 
 const skills = [
   { label: "Development", percent: 95, color: "#009688" },

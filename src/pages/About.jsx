@@ -11,9 +11,10 @@ import {
   FaArrowRight,
 } from "react-icons/fa";
 import CTABanner from "../components/CTABanner";
+import aboutHeroImage from "../assets/images/About_GeoWeb.svg";
 
-const aboutHeroImage =
-  "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&auto=format&fit=crop&q=80";
+// const aboutHeroImage =
+//   "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&auto=format&fit=crop&q=80";
 
 const missionVision = [
   {
